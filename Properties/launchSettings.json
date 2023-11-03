@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "cut-the-cord (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "cut-the-cord (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
